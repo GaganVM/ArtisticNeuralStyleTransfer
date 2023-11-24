@@ -43,7 +43,8 @@ pip install torch matplotlib requests numpy
    style_image = show_image(style)
    display_images(content_image, style_image)
    ```
-![plot](./Input/golden_gate.jpg)
+<img src="./Input/golden_gate.jpg" alt="Content Image" width="50%">
+
 
 
 3. **VGG Model Setup:**
