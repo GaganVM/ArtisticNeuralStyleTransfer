@@ -102,7 +102,7 @@ pip install torch matplotlib requests numpy
 
 ## Result Image
 
-<img src="./Output/Result.jpg" alt="Another Image" width="50%">
+<img src="./Output/Result.png" alt="Another Image" width="50%">
 
 
 ## Parameters
