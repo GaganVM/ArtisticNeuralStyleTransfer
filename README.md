@@ -43,7 +43,7 @@ pip install torch matplotlib requests numpy
    style_image = show_image(style)
    display_images(content_image, style_image)
    ```
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
     <img src="./Input/golden_gate.jpg" alt="Content Image" width="50%">
     <img src="./Input/starry_night.jpg" alt="Style Image" width="50%">
 </div>
