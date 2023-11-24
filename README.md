@@ -49,7 +49,7 @@ pip install torch matplotlib requests numpy
 
 <img src="./Input/golden_gate.jpg" alt="Content Image" width="50%">
 
-## Another Image
+## Style Image
 
 <img src="./Input/starry_night.jpg" alt="Another Image" width="50%">
 
@@ -99,6 +99,11 @@ pip install torch matplotlib requests numpy
        plt.imshow(show_image(target))
        plt.show()
    ```
+
+## Result Image
+
+<img src="./Output/Result.jpg" alt="Another Image" width="50%">
+
 
 ## Parameters
 
